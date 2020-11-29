@@ -4,8 +4,8 @@ SEOTitle: Alan的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: lee717616@gmail.com
 description: "So many years have been wasted for nothing."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "iOS, Apple, iPhone"
+url: "http://thewastedyears.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
