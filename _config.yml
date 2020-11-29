@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: 废年
 SEOTitle: 太空小站  | Blog
 header-img: img/post-bg-desk.jpg
@@ -19,10 +19,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
 twitter_username:   qiubaiying
 
 
