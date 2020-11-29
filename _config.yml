@@ -7,11 +7,11 @@ description: "So many years have been wasted for nothing."
 keyword: "iOS, Apple, iPhone"
 url: "http://thewastedyears.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/TheWastedYears/TheWastedYears.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "欢乐欲与少年期 人生百年常苦迟"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
