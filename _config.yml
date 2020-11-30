@@ -61,7 +61,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e8ada03036fa12853a29                         #生成的clientID
   clientSecret: a3e0514edebb2b59ebe44d0e497fdfbd33f9486d    #生成的clientSecret
-  repo: thewastedyearsgitalk.github.io    #仓库名称
+  repo: https://github.com/TheWastedYears/gitalk    #仓库名称
   owner: thewastedyears   #github用户名
   admin: thewastedyears
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
