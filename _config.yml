@@ -17,8 +17,7 @@ sidebar-avatar: /img/8B7C3F08D5CC0F09FB930BA7E7560520.png      # use absolute UR
 
 
 # SNS settings
-RSS: false
-weibo_username:     qiubaiying
+RSS: true
 github_username:    Alan-spike-lee
 facebook_username:  alanspikelee
 twitter_username:   alan_spike_lee
@@ -62,7 +61,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e8ada03036fa12853a29                         #生成的clientID
   clientSecret: a3e0514edebb2b59ebe44d0e497fdfbd33f9486d    #生成的clientSecret
-  repo: thewastedyears.github.io    #仓库名称
+  repo: thewastedyearsgitalk.github.io    #仓库名称
   owner: thewastedyears   #github用户名
   admin: thewastedyears
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
