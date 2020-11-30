@@ -12,7 +12,7 @@ github_repo: "https://github.com/TheWastedYears/TheWastedYears.github.io" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "欢乐欲与少年期 人生百年常苦迟"
-sidebar-avatar: /img/gITNMwblBfwefqA.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/spike.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
