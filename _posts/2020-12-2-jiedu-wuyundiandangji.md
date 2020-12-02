@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      文艺启蒙系列其二：略解《乌云典当记》
+title:      文艺启蒙系列其一：略解《乌云典当记》
 subtitle:   谁用乌云换日星 谁用匕首换光明
 date:       2020-12-2
 author:     WastedYears
