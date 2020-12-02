@@ -38,7 +38,7 @@ https://github.com/pockies/pockies.github.io
 
 - [ ] 底部栏star跳转页面错误
 - [ ] rss订阅失效
-- [x] 新文章issue未开启（已解决 需要管理员登陆一次）
+- [x] 新文章issue未开启（已解决 需要管理员登陆一次）  （2020.12.2已解决）
 
 
 
