@@ -25,7 +25,7 @@ https://github.com/pockies/pockies.github.io
 ## 更新计划
 
 - [ ] 内容搜索功能
-- [x] 合理的tag分层
+- [x] 合理的tag分层（2020.12.2已更新）
 - [ ] TAG页面首层tag的分层次顺序排列
 - [ ] home（pc端上滑后浮顶） about tag页面横幅高度统一
 - [ ] 概要功能改进（文章头单独分块儿，选填）
@@ -38,7 +38,7 @@ https://github.com/pockies/pockies.github.io
 
 - [ ] 底部栏star跳转页面错误
 - [ ] rss订阅失效
-- [ ] 新文章issue未开启
+- [x] 新文章issue未开启（已解决 需要管理员登陆一次）
 
 
 
