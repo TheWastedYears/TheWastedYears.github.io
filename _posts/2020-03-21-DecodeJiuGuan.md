@@ -2,7 +2,7 @@
 layout:     post
 title:      文艺启蒙系列其二：万青在大陆被封杀的《酒馆》
 subtitle:   面向涣散的未来 只唱情歌 看不到坦克
-date:       2020-12-2
+date:       2020-03-21
 author:     WastedYears
 header-img: img/post-bg-2015.jpg
 catalog: 	 true

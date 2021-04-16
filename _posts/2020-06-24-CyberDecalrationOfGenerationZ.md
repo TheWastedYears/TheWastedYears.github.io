@@ -2,7 +2,7 @@
 layout:     post
 title:      00后赛博空间自由宣言（未完成
 subtitle:   他们是我们，我们才是他者
-date:       2020-12-2
+date:       2020-06-24
 author:     WastedYears
 header-img: img/post-bg-2015.jpg
 catalog: 	 true

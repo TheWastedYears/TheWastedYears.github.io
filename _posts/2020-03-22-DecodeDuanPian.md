@@ -2,7 +2,7 @@
 layout:     post
 title:      文艺启蒙系列其四：一首用492字写尽中共70年历史的《一个短篇》
 subtitle:   别担心没有哪一首歌能够  把这个现实唱到地狱去
-date:       2020-12-2
+date:       2020-03-22
 author:     WastedYears
 header-img: img/post-bg-2015.jpg
 catalog: 	 true
