@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      我的世界观
-subtitle:   由一次写评论引发的碎片整合
+title:      我的政治哲学观
+subtitle:   由写一个评论引发的碎片整合
 date:       2021-1-3
 author:     WastedYears
 header-img: img/post-bg-2015.jpg
