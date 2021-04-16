@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      文艺启蒙系列其四：小评万青新专《冀西南林路行》
+title:      文艺启蒙系列其五：小评万青新专《冀西南林路行》
 subtitle:   火光忷忷，指引盗寇入太行
 date:       2020-12-24
 author:     WastedYears
