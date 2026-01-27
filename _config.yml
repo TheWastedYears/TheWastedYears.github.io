@@ -2,7 +2,7 @@
 title: BeboPub
 SEOTitle: 太空Bebop爵士酒馆
 header-img: img/post-bg-desk.jpg
-email: lee717616@gmail.com
+email: 
 description: "HelloUniverse."
 keyword: ""
 url: "http://thewastedyears.github.io"          # your host, for absolute URL
@@ -93,11 +93,9 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Lucas",
-        href: "http://lucasgao.cn"
+       
     }, {
-        title: "LBLT",
-        href: "http://lblblblt.github.io"
+       
     },
 
 ]
